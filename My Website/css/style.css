@@ -1,0 +1,136 @@
+/*************************HEADER*************************/
+
+header{
+   position: relative;
+   left: 0;
+   right: 0;
+ 
+}
+
+header a{
+  display: inline-block;
+  color: gray;
+  margin-left: 15px;
+  font-size: 14px;
+  font-family: sans-serif;
+}  
+
+header h1{
+  margin-left: 0px;
+  display: block;
+
+}
+
+.home-link{
+  color: black;
+}
+#menu-icon{
+  margin-top: 20px;
+  height: 20px;
+  width: 25px;
+  margin-left: 220px;
+  color: gray;
+}
+
+
+
+
+/*************************HERO SECTION*************************/
+
+ #hero-section{
+    background-image:url(../img/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: auto;
+    height: 85vh;
+ }
+
+ #hero-text{
+   color: white;
+   background-color: rgb(51, 197, 131);
+   font-size: 18px;
+   margin-left: 2px;
+   text-align: center;
+   margin-top: 95px;
+   margin-left: 50px;
+   display: inline-block;
+   font-weight: bold;
+ }
+
+/*************************INTRO SECTION*************************/
+
+.text{
+  color: grey;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+
+/*************************RECENT WORK SECTION*************************/
+
+.image{
+ height: 225px;
+ 
+}
+
+.title-of-recent-work-section{
+ padding-top: 60px;
+ font-weight: bold;
+}
+
+.horizontal-rule{
+  margin-top: 10px;
+}
+
+.second-text{
+  align-items: flex-start;
+}
+
+/*************************FROM THE BLOG SECTION*************************/
+
+.second-horizontal-rule{
+  margin-top: 10px;
+}
+.title-of-from-the-blog-section{
+  padding-top: 20px;
+  font-weight: bold;
+}
+.image-FTB-section{
+  height: 190px;
+}
+.f-text{
+  font-family: sans-serif;
+  font-size: 17px;
+  padding-bottom: 10px;
+  padding-top: 5px
+}
+.s-text{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: grey;
+  padding-bottom: 40px;
+}
+
+/*************************FOOTER SECTION*************************/
+#footer-section{
+  background-color: rgb(36, 32, 32);
+}
+#footer-section h5{
+  color: white;
+  font-weight: bold;
+}
+#footer-section hr{
+  color: rgb(72, 69, 69);
+}
+.paragraph{
+  color: gray;
+  padding-top: 20px;
+  font-size: 15px;
+}
+.third-col{
+  margin-left: 50px;
+}
+  .paragraph2{
+    color: white;
+  }
